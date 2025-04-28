@@ -1,5 +1,5 @@
 *** Variables ***
-${API_KEY}                  a543338e043a49e4812e0984a9113a03
+${API_KEY}                   xxx
 ${ENDPOINT_URL}              https://api.digitransit.fi/routing/v2/hsl/gtfs/v1
 
 ${ROUTE_NAME}                582
